@@ -1,147 +1,156 @@
-# 🐋 OPG Whale Intelligence
+````markdown
+# 🛡️ WalletGuard  
+### *Web3 Wallet Security Interface & Risk-Aware Interaction Layer*
 
-### *Real-Time AI Signal Aggregation & Smart Insight Platform*
+![Status](https://img.shields.io/badge/status-active-success)
+![Focus](https://img.shields.io/badge/focus-Web3%20Security%20%7C%20AI-blue)
+![Built](https://img.shields.io/badge/built-by-sharif899-black)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
 ## 🧠 Overview
 
-Information is everywhere.
-**Intelligence is not.**
+Web3 gives users full control.  
+But with that comes full responsibility — and risk.
 
-**OPG Whale Intelligence** is a real-time platform built to **aggregate, filter, and surface high-value signals from complex data streams using AI**. It transforms raw information into structured, actionable insight — helping users see what actually matters.
+**WalletGuard** is a security-focused wallet interface designed to help users interact with blockchain systems **safely and intelligently**.
 
-It’s designed for speed, clarity, and decision-making in fast-moving environments.
+It acts as a **protective layer between users and risky transactions**, providing clarity before actions are taken.
 
 ---
 
 ## 🚧 The Problem
 
-Modern data environments are overwhelming:
+Web3 users face constant risks:
 
-* Too many sources, not enough clarity
-* Noise outweighs meaningful signals
-* Manual analysis is slow and inconsistent
-* Important insights are often missed
+- Phishing websites and wallet drainers  
+- Malicious smart contract interactions  
+- Blind transaction signing  
+- Lack of clear risk visibility  
 
-As information scales, **signal detection becomes the real challenge**.
+Most users:
+👉 Don’t know what they are signing  
+👉 Don’t see risks until it’s too late  
 
 ---
 
 ## 💡 The Solution
 
-OPG Whale Intelligence provides:
+WalletGuard introduces a **risk-aware interaction layer**:
 
-* Aggregation of multiple data sources into one system
-* AI-powered filtering to reduce noise
-* Real-time signal detection and surfacing
-* Structured insights for faster understanding
+- Clear transaction visibility  
+- Security-first wallet interface  
+- Foundation for AI-powered risk detection  
+- Safer user decision-making  
 
-Instead of scanning everything, users see **only what matters**.
+Instead of guessing, users interact with **confidence**.
 
 ---
 
 ## ⚙️ How It Works
 
-```text id="4y6e8p"
-Data Sources → AI Processing → Signal Filtering → Insight Generation → Live Display
-```
+```text
+User Action → Transaction Request → Risk Evaluation → Safe Interaction Layer → Execution
+````
 
-A continuous pipeline that converts raw input into usable intelligence.
+A simple flow that ensures users understand **before they sign**.
 
 ---
 
 ## ✨ Features
 
-* 🐋 Multi-source data aggregation
-* ⚡ Real-time signal processing
-* 🧠 AI-powered filtering and summarization
-* 📊 Structured insight display
-* 🌐 Fully browser-based
+* 🛡️ Clean wallet interaction interface
+* 🔍 Transaction visibility layer
+* ⚡ Fast and lightweight frontend
+* 🌐 Browser-based deployment
+* 🧱 Foundation for AI security integration
 
 ---
 
-## 📊 Why OPG Whale Intelligence
+## 🌍 Live Demo
 
-| Traditional Analysis | OPG Whale Intelligence     |
-| -------------------- | -------------------------- |
-| Manual data review   | Automated signal detection |
-| Noisy information    | Filtered insights          |
-| Slow interpretation  | Real-time intelligence     |
-| Fragmented sources   | Unified system             |
+👉 [https://walletguard-nine.vercel.app/](https://walletguard-nine.vercel.app/)
 
 ---
 
 ## 📁 Project Structure
 
-```text id="c4z0pl"
+```bash
 .
-├── api/             # Data processing / AI logic
-├── frontend/        # Interface and visualization
-├── engine/          # Signal filtering system
-├── data/            # Source integrations
-├── package.json     # Dependencies
-└── README.md        # Documentation
+├── frontend/        # Wallet interface
+├── components/      # UI components
+├── utils/           # Helper functions
+├── public/          # Static assets
+└── README.md
 ```
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Getting Started
 
-```bash id="5x6n0d"
-git clone https://github.com/your-username/opg-whale-intelligence.git
-cd opg-whale-intelligence
+```bash
+git clone https://github.com/sharif899/walletguard.git
+cd walletguard
 npm install
-npm start
+npm run dev
 ```
 
 ---
 
 ## 🧪 Usage
 
-1. Open the application
-2. Connect or observe incoming data streams
-3. View filtered signals in real time
-4. Analyze insights and trends instantly
+1. Open the app
+2. Connect wallet (if integrated)
+3. Interact with transaction interface
+4. Review actions before execution
 
 ---
 
 ## 🎯 Use Cases
 
-* Real-time intelligence monitoring
-* Market or trend analysis
-* Signal detection in large datasets
-* AI-driven research workflows
-* Decision support systems
-
----
-
-## 🌍 Live Demo
-
-[https://opgwhaleintelligence.vercel.app/](https://opgwhaleintelligence.vercel.app/)
+* Web3 wallet interaction safety
+* Transaction awareness layer
+* Security-focused UI development
+* Foundation for AI risk detection systems
 
 ---
 
 ## 🔮 Future Roadmap
 
-* Multi-model consensus analysis
-* Custom signal filters
-* Alert and notification system
-* Historical data tracking
-* Advanced analytics dashboard
+* AI-powered transaction risk scoring
+* Smart contract risk detection
+* Phishing and scam detection system
+* Transaction simulation before signing
+* Real-time security alerts
 
 ---
 
 ## 🧩 Why It Matters
 
-In fast systems,
-**speed without clarity is useless**.
+In Web3,
+**one wrong click can cost everything.**
 
-OPG Whale Intelligence bridges that gap by:
+WalletGuard focuses on:
 
-* Reducing noise
-* Highlighting signals
-* Delivering insight in real time
+* Preventing mistakes
+* Improving visibility
+* Enabling safer decisions
 
-Modern intelligence isn’t about more data —
-it’s about **better visibility**.
+Because security should not be optional —
+it should be **built into every interaction**.
+
+---
+
+## 🤝 Contribution
+
+Open to improvements, ideas, and collaboration.
+
+---
+
+## 📜 License
+
+MIT License
+
+```
+```
